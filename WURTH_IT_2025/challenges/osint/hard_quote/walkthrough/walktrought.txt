@@ -1,0 +1,43 @@
+PART 1 
+
+	FLAG 1: visto che è un nome molto preciso e se ci cerca su google "swissquote-2024.zip artifacts" viene fuori che è phishing-kit
+			WPCTF{phishing_kit}  
+			
+	FLAG 2: il link che si è cliccato probabilmente  è
+		
+			WPCTF{https://swissquotech.com/swissquote-2024.zip}
+
+	
+PART 2:
+
+	FLAG 1: nome completo dell organizazione attaccata 
+	
+			WPCTF{Swissquote_Group_Holding_SA}
+	
+	FLAG 2: la tecnica per sfruttare vulnerabilità tramite motori di ricerca è SEO poisoning 
+	
+			WPCTF{SEO_poisoning}ledgernewupdated-2025.zip
+
+			
+PART 3:
+	
+	FLAG 1: cercando il nome swissquote-2024-zip online una peronsa ha fatto l analisi https://www.joesandbox.com/analysis/1523374/0/html e se ci erca admin --> goripooL0 
+	
+			WPCTF{goripooL0}
+			
+	FLAG 2: se si cerca "goripooL0" who is and tool si viene fuori che sua telegram 
+	
+			WPCTF{Telegram}
+			
+PART 4
+
+	FLAG 1: sempre sul sito di prima https://www.joesandbox.com/analysis/1523374/0/html se si cerca TOKEN ad una certa abbiamo 
+	
+		
+			WPCTF{7251025799:AAH8kcqq7jjQIcl_d8KJ15CrvETUhWjtxa4}
+			
+			
+	FLAG 2: se si incolla il toekn su google, eseiste una repo git hub con una serie di codici (https://github.com/ecarlesi/ioc/blob/main/telegram.txt) li lo cerchi di nuovo e ottieni l artefatto con una vuln simile 
+	
+			WPCTF{ledgernewupdated-2025.zip}
+

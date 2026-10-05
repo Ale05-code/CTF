@@ -1,0 +1,7 @@
+1.Ho cercato quali auto hanno la targa gialla --> Regno unito e Paesi Bassi --> la corrispondenza è con i paesi bassi 
+
+2. Ho cercato un sito dove si possono cercare le targhe dei paesi bassi --> https://ovi.rdw.nl/ 
+
+3. Ho inserito il pezzo che conoscevo e la cifra fino a trovare una macchina bianca --> 58-XXK-8 
+
+4. WPCTF{e2*2007/46*0070*05}
