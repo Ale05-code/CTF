@@ -89,3 +89,5 @@ Per scoprire le lettere singole, abbiamo dovuto fare il calcolo all'indietro:
 5. Visto che la rotazione avviene su un byte (8bit) ruote di n posizioni è lo stesso che ruotare di n (mod 8)
 6. Scritto script in python che ha il compito di leggere i bit dal file .aes, applicare la funzione rol per ogni byte e ricostruire la flag
 7. CCIT{n0t\_re4llY\_using\_K}
+
+
